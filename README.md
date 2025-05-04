@@ -9,10 +9,10 @@
 ## 📚 Education
 
 - **Tezpur University (TU)**  
-  Master of Computer Application (2023–Present) — CGPA: 6.66
+  Master of Computer Application (2023–Present) 
 
 - **Mahatma Gandhi Kashi Vidyapeeth (MGKVP)**  
-  Bachelor of Computer Application (2018–2021) — 68.44%
+  Bachelor of Computer Application (2018–2021) 
 
 ---
 
